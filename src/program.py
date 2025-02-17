@@ -12,11 +12,11 @@ def get_location_input():
     location_input = input("""Input a location (the specificity is up to you, but supplying more details is better, e.g., "new york, new york, USA" vs "newyork"):  """)
     return location_input
 
-def save_location_to_file(location, bounding_box, add_bounding_box):
+def save_location_to_file(location, bbox, add_bbox):
     """save the JSON response to a file."""
     location_data = location.raw
-    location_data["boundingbox"] = bounding_box
-    location_data["add_bounding_box"] = add_bounding_box
+    location_data["bbox"] = bbox
+    location_data["add_bbox"] = add_bbox
     with open("location.json", "w") as json_file:
         json.dump(location_data, json_file, indent=4)
 
@@ -26,23 +26,23 @@ def read_location_from_file():
         location_data = json.load(json_file)
     return location_data
 
-def extract_and_print_bounding_box(location_data):
+def extract_and_print_bbox(location_data):
     """extract and print the bounding box coordinates."""
-    bounding_box = location_data.get("boundingbox", [])
-    if bounding_box:
-        south, north, west, east = map(float, bounding_box)
+    bbox = location_data.get("bbox", [])
+    if bbox:
+        west, south, east, north = map(float, bbox)
         print(f"Bounding Box: South: {south}, North: {north}, West: {west}, East: {east}")
     else:
         print("Bounding box not found in the JSON response.")
 
-def create_bounding_box(lat, lon, radius_miles=5):
+def create_bbox(lat, lon, radius_miles=5):
     """create a bounding box with a given radius around a location."""
     origin = (lat, lon)
     north = geodesic(miles=radius_miles).destination(origin, 0).latitude
     south = geodesic(miles=radius_miles).destination(origin, 180).latitude
     east = geodesic(miles=radius_miles).destination(origin, 90).longitude
     west = geodesic(miles=radius_miles).destination(origin, 270).longitude
-    return [south, north, west, east]
+    return [west, south, east, north]
 
 def handle_location_input():
     """handle location input and save to file."""
@@ -58,13 +58,13 @@ def handle_location_input():
             confirmation = input("Is this the correct location? (y/n):  ")
             if confirmation.lower().strip() == "y":
                 print("Location confirmed. Continuing...")
-                bounding_box = location.raw.get("boundingbox", [])
-                if not bounding_box:
-                    bounding_box = create_bounding_box(location.latitude, location.longitude)
-                    add_bounding_box = True
+                bbox = location.raw.get("boundingbox", [])
+                if not bbox:
+                    bbox = create_bbox(location.latitude, location.longitude)
+                    add_bbox = True
                 else:
-                    add_bounding_box = False
-                save_location_to_file(location, bounding_box, add_bounding_box)
+                    add_bbox = False
+                save_location_to_file(location, bbox, add_bbox)
                 break
 
         else:
@@ -78,13 +78,13 @@ def handle_hardcoded_location():
     print(hardcoded_location)
     print(location.address)
     print(location.latitude, location.longitude)
-    bounding_box = location.raw.get("boundingbox", [])
-    if not bounding_box:
-        bounding_box = create_bounding_box(location.latitude, location.longitude)
-        add_bounding_box = True
+    bbox = location.raw.get("boundingbox", [])
+    if not bbox:
+        bbox = create_bbox(location.latitude, location.longitude)
+        add_bbox = True
     else:
-        add_bounding_box = False
-    save_location_to_file(location, bounding_box, add_bounding_box)
+        add_bbox = False
+    save_location_to_file(location, bbox, add_bbox)
 
 def clear_location_file():
     """clear the location.json file."""
@@ -99,7 +99,7 @@ def main():
 
     # geocode request is now saved in location.json -> get coordinates + bounding box
     location_data = read_location_from_file()
-    extract_and_print_bounding_box(location_data)
+    extract_and_print_bbox(location_data)
 
     # clear location.json at the end of the program run
     clear_location_file()
