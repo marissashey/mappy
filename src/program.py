@@ -22,12 +22,12 @@ def save_location_to_file(location, bbox, add_bbox, radius_miles):
     location_data["bbox"] = bbox
     location_data["add_bbox"] = add_bbox
     location_data["radius_miles"] = radius_miles
-    with open("location.json", "w") as json_file:
+    with open("json_files/location.json", "w") as json_file:
         json.dump(location_data, json_file, indent=4)
 
 def read_location_from_file():
     """read the JSON response from a file."""
-    with open("location.json", "r") as json_file:
+    with open("json_files/location.json", "r") as json_file:
         location_data = json.load(json_file)
     return location_data
 
@@ -128,7 +128,7 @@ def handle_hardcoded_location(radius_miles):
 
 def clear_location_file():
     """clear the location.json file."""
-    with open("location.json", "w") as json_file:
+    with open("json_files/location.json", "w") as json_file:
         json_file.write("{}")
 
 def get_user_destinations():
@@ -172,7 +172,7 @@ def query_destinations(location_data, bbox, destination_type, limit=50):
             timeout=None,
             limit=limit # max number of results to return. Nominatim caps it at 50
         )
-        print(results)
+        # print(results) # for debugging
     except Exception as e:
         print(f"Error: {e}")
         raise
@@ -230,13 +230,13 @@ def process_destinations(dest1_file, dest2_file, dest3_file, hits_file, radius_m
         json.dump(hits, file, indent=4)
 
 def print_json_file_sizes(filenames):
-    """Print the number of items in each JSON file."""
+    """print item count for each json file."""
     for filename in filenames:
         num_items = count_items_in_json(filename)
         print(f'The number of items in {filename} is {num_items}.')
 
 def count_hits(hits_file):
-    """Count the number of items in hits2 and hits3 for each hits1."""
+    """count items in hits2 and hits3 for each hits1, and show the 3 closest locations."""
     with open(hits_file, 'r') as file:
         hits_data = json.load(file)
     
@@ -245,15 +245,48 @@ def count_hits(hits_file):
     for entry in hits_data:
         hits1 = entry['hits1']
         name = hits1['raw'].get('name') or hits1['address'].split(',')[0]
-        hits2_count = len(entry['hits2'])
-        hits3_count = len(entry['hits3'])
+        
+        hits2 = sorted(entry['hits2'], key=lambda x: geodesic((hits1['latitude'], hits1['longitude']), (x['latitude'], x['longitude'])).miles)[:3]
+        hits3 = sorted(entry['hits3'], key=lambda x: geodesic((hits1['latitude'], hits1['longitude']), (x['latitude'], x['longitude'])).miles)[:3]
+        
+        hits2_names = [(hit['raw'].get('name') or hit['address'].split(',')[0], f"{geodesic((hits1['latitude'], hits1['longitude']), (hit['latitude'], hit['longitude'])).miles:.2f} mi") for hit in hits2]
+        hits3_names = [(hit['raw'].get('name') or hit['address'].split(',')[0], f"{geodesic((hits1['latitude'], hits1['longitude']), (hit['latitude'], hit['longitude'])).miles:.2f} mi") for hit in hits3]
         
         hits_count[name] = {
-            'hits2': hits2_count,
-            'hits3': hits3_count
+            'hits2': hits2_names,
+            'hits3': hits3_names,
+            'total_hits2': len(entry['hits2']),
+            'total_hits3': len(entry['hits3']),
+            'total': len(entry['hits2']) + len(entry['hits3'])
         }
     
     return hits_count
+
+def print_hits_count(hits_count, hits2_type, hits3_type):
+    """print dict with top 3 hits count."""
+    sorted_hits = sorted(hits_count.items(), key=lambda x: x[1]['total'], reverse=True)[:3]
+    
+    for i, (name, counts) in enumerate(sorted_hits, start=1):
+
+        print(f"""============================================================================
+    Result #{i}.  {name}""")
+
+
+        print(f"""
+    *  {hits2_type} locations close by:""")
+        for hit in counts['hits2']:
+            print(f"""
+            - {hit[0]}: {hit[1]}""")
+
+        print(f"""
+    *  {hits3_type} locations close by:""")
+        for hit in counts['hits3']:
+            print(f"""
+            - {hit[0]}: {hit[1]}""")
+        print(f"""    
+    [total nearby:  {counts['total_hits2']}x {hits2_type}, {counts['total_hits3']}x {hits3_type}]""")
+    print("""============================================================================""")
+ 
 
 ### main function
 def main(radius_miles=BBOX_RADIUS_MILES):
@@ -274,28 +307,19 @@ def main(radius_miles=BBOX_RADIUS_MILES):
     # query geocode for each destination type and save results to json files
     for i, destination in enumerate(destinations):
         results = query_destinations(location_data, new_bbox, destination)
-        save_destinations_to_file(results, f"dest{i+1}.json")
+        save_destinations_to_file(results, f"json_files/dest{i+1}.json")
 
     # process destinations and find hits within bounding boxes
     process_destinations(
-        dest1_file='/Users/marissashey/Documents/GitHub/mappy/dest1.json',
-        dest2_file='/Users/marissashey/Documents/GitHub/mappy/dest2.json',
-        dest3_file='/Users/marissashey/Documents/GitHub/mappy/dest3.json',
-        hits_file='/Users/marissashey/Documents/GitHub/mappy/hits.json'
+        dest1_file='json_files/dest1.json',
+        dest2_file='json_files/dest2.json',
+        dest3_file='json_files/dest3.json',
+        hits_file='json_files/hits.json'
     )
 
-    # print the number of items in each JSON file
-    json_files = [
-        '/Users/marissashey/Documents/GitHub/mappy/dest1.json',
-        '/Users/marissashey/Documents/GitHub/mappy/dest2.json',
-        '/Users/marissashey/Documents/GitHub/mappy/dest3.json',
-        '/Users/marissashey/Documents/GitHub/mappy/hits.json'
-    ]
-    print_json_file_sizes(json_files)
-
     # count hits in hits.json
-    hits_count = count_hits('/Users/marissashey/Documents/GitHub/mappy/hits.json')
-    print(hits_count)
+    hits_count = count_hits('json_files/hits.json')
+    print_hits_count(hits_count, destinations[1], destinations[2])
 
     # clear location.json at the end of the program run
     # clear_location_file()
