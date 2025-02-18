@@ -1,0 +1,1302 @@
+[
+    {
+        "address": "Ole & Steen, 100, Church Street, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7129651,
+        "longitude": -74.0097789,
+        "raw": {
+            "place_id": 333277349,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11577698593,
+            "lat": "40.7129651",
+            "lon": "-74.0097789",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.0037711545566385305,
+            "addresstype": "shop",
+            "name": "Ole & Steen",
+            "display_name": "Ole & Steen, 100, Church Street, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7129151",
+                "40.7130151",
+                "-74.0098289",
+                "-74.0097289"
+            ]
+        }
+    },
+    {
+        "address": "Billy's Bakeshop, 75, Franklin Street, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7177414,
+        "longitude": -74.0044297,
+        "raw": {
+            "place_id": 329654836,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5265714716,
+            "lat": "40.7177414",
+            "lon": "-74.0044297",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.005258040237577662,
+            "addresstype": "shop",
+            "name": "Billy's Bakeshop",
+            "display_name": "Billy's Bakeshop, 75, Franklin Street, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7176914",
+                "40.7177914",
+                "-74.0044797",
+                "-74.0043797"
+            ]
+        }
+    },
+    {
+        "address": "Greek Bakerie, 10, Liberty Street, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+        "latitude": 40.7074156,
+        "longitude": -74.0083566,
+        "raw": {
+            "place_id": 330864015,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5978561185,
+            "lat": "40.7074156",
+            "lon": "-74.0083566",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.00580558439866754,
+            "addresstype": "shop",
+            "name": "Greek Bakerie",
+            "display_name": "Greek Bakerie, 10, Liberty Street, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+            "boundingbox": [
+                "40.7073656",
+                "40.7074656",
+                "-74.0084066",
+                "-74.0083066"
+            ]
+        }
+    },
+    {
+        "address": "Chip City, Duane Street, Tribeca, Manhattan, New York County, City of New York, New York, 10005, United States",
+        "latitude": 40.7175807,
+        "longitude": -74.0104332,
+        "raw": {
+            "place_id": 329001136,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11329748691,
+            "lat": "40.7175807",
+            "lon": "-74.0104332",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.006562503391237649,
+            "addresstype": "shop",
+            "name": "Chip City",
+            "display_name": "Chip City, Duane Street, Tribeca, Manhattan, New York County, City of New York, New York, 10005, United States",
+            "boundingbox": [
+                "40.7175307",
+                "40.7176307",
+                "-74.0104832",
+                "-74.0103832"
+            ]
+        }
+    },
+    {
+        "address": "Funny Face Bakery, 6, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7064971,
+        "longitude": -74.0035275,
+        "raw": {
+            "place_id": 328810155,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11608807243,
+            "lat": "40.7064971",
+            "lon": "-74.0035275",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.006709248265636091,
+            "addresstype": "shop",
+            "name": "Funny Face Bakery",
+            "display_name": "Funny Face Bakery, 6, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7064471",
+                "40.7065471",
+                "-74.0035775",
+                "-74.0034775"
+            ]
+        }
+    },
+    {
+        "address": "Grandaisy Bakery, 250, West Broadway, Tribeca, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7200222,
+        "longitude": -74.0058804,
+        "raw": {
+            "place_id": 328030505,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5265715373,
+            "lat": "40.7200222",
+            "lon": "-74.0058804",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.007295345492164241,
+            "addresstype": "shop",
+            "name": "Grandaisy Bakery",
+            "display_name": "Grandaisy Bakery, 250, West Broadway, Tribeca, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7199722",
+                "40.7200722",
+                "-74.0059304",
+                "-74.0058304"
+            ]
+        }
+    },
+    {
+        "address": "New Golden Fung Wong Bakery, 41, Mott Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7151343,
+        "longitude": -73.9988839,
+        "raw": {
+            "place_id": 332457889,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5231412387,
+            "lat": "40.7151343",
+            "lon": "-73.9988839",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.007526303085179236,
+            "addresstype": "shop",
+            "name": "New Golden Fung Wong Bakery",
+            "display_name": "New Golden Fung Wong Bakery, 41, Mott Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7150843",
+                "40.7151843",
+                "-73.9989339",
+                "-73.9988339"
+            ]
+        }
+    },
+    {
+        "address": "Lung Moon Bakery, 83, Baxter Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7165556,
+        "longitude": -73.9990538,
+        "raw": {
+            "place_id": 333987801,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6100964794,
+            "lat": "40.7165556",
+            "lon": "-73.9990538",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.00794423351934734,
+            "addresstype": "shop",
+            "name": "Lung Moon Bakery",
+            "display_name": "Lung Moon Bakery, 83, Baxter Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7165056",
+                "40.7166056",
+                "-73.9991038",
+                "-73.9990038"
+            ]
+        }
+    },
+    {
+        "address": "Audrey Bakery & Cafe, 12, Chatham Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7140325,
+        "longitude": -73.9978216,
+        "raw": {
+            "place_id": 335056994,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5231393245,
+            "lat": "40.7140325",
+            "lon": "-73.9978216",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.008296778912323785,
+            "addresstype": "shop",
+            "name": "Audrey Bakery & Cafe",
+            "display_name": "Audrey Bakery & Cafe, 12, Chatham Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7139825",
+                "40.7140825",
+                "-73.9978716",
+                "-73.9977716"
+            ]
+        }
+    },
+    {
+        "address": "Simply Bakery, 70, Bayard Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7156175,
+        "longitude": -73.9981712,
+        "raw": {
+            "place_id": 331743821,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3972392759,
+            "lat": "40.7156175",
+            "lon": "-73.9981712",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.008359244484992156,
+            "addresstype": "shop",
+            "name": "Simply Bakery",
+            "display_name": "Simply Bakery, 70, Bayard Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7155675",
+                "40.7156675",
+                "-73.9982212",
+                "-73.9981212"
+            ]
+        }
+    },
+    {
+        "address": "Mei Lai Wah Coffee, 62, Bayard Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7155185,
+        "longitude": -73.99789,
+        "raw": {
+            "place_id": 332054129,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3991220675,
+            "lat": "40.7155185",
+            "lon": "-73.99789",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.00859099570480218,
+            "addresstype": "shop",
+            "name": "Mei Lai Wah Coffee",
+            "display_name": "Mei Lai Wah Coffee, 62, Bayard Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7154685",
+                "40.7155685",
+                "-73.9979400",
+                "-73.9978400"
+            ]
+        }
+    },
+    {
+        "address": "Taipan Bakery, 194, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7167894,
+        "longitude": -73.9981712,
+        "raw": {
+            "place_id": 331408506,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6261904276,
+            "lat": "40.7167894",
+            "lon": "-73.9981712",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.008833034228955318,
+            "addresstype": "shop",
+            "name": "Taipan Bakery",
+            "display_name": "Taipan Bakery, 194, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7167394",
+                "40.7168394",
+                "-73.9982212",
+                "-73.9981212"
+            ]
+        }
+    },
+    {
+        "address": "Tous les Jours, 7, Division Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7139633,
+        "longitude": -73.9970846,
+        "raw": {
+            "place_id": 330909519,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9809819951,
+            "lat": "40.7139633",
+            "lon": "-73.9970846",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.009015616196356022,
+            "addresstype": "shop",
+            "name": "Tous les Jours",
+            "display_name": "Tous les Jours, 7, Division Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7139133",
+                "40.7140133",
+                "-73.9971346",
+                "-73.9970346"
+            ]
+        }
+    },
+    {
+        "address": "La Bella Ferrara Bakery, 108, Mulberry Street, Two Bridges, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7174065,
+        "longitude": -73.9982549,
+        "raw": {
+            "place_id": 333987893,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5231713664,
+            "lat": "40.7174065",
+            "lon": "-73.9982549",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.009061439325505887,
+            "addresstype": "shop",
+            "name": "La Bella Ferrara Bakery",
+            "display_name": "La Bella Ferrara Bakery, 108, Mulberry Street, Two Bridges, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7173565",
+                "40.7174565",
+                "-73.9983049",
+                "-73.9982049"
+            ]
+        }
+    },
+    {
+        "address": "Audrey Bakery & Cafe, 174, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7165523,
+        "longitude": -73.9975177,
+        "raw": {
+            "place_id": 335224688,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6261905669,
+            "lat": "40.7165523",
+            "lon": "-73.9975177",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.009318369593969042,
+            "addresstype": "shop",
+            "name": "Audrey Bakery & Cafe",
+            "display_name": "Audrey Bakery & Cafe, 174, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7165023",
+                "40.7166023",
+                "-73.9975677",
+                "-73.9974677"
+            ]
+        }
+    },
+    {
+        "address": "Bake Culture, 48, Bowery, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7157788,
+        "longitude": -73.9965978,
+        "raw": {
+            "place_id": 331972284,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2567551910,
+            "lat": "40.7157788",
+            "lon": "-73.9965978",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.009899201647093629,
+            "addresstype": "shop",
+            "name": "Bake Culture",
+            "display_name": "Bake Culture, 48, Bowery, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7157288",
+                "40.7158288",
+                "-73.9966478",
+                "-73.9965478"
+            ]
+        }
+    },
+    {
+        "address": "Crispy Heaven, Grand Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7227179,
+        "longitude": -74.0042121,
+        "raw": {
+            "place_id": 328468859,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11897341759,
+            "lat": "40.7227179",
+            "lon": "-74.0042121",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.010151220303488338,
+            "addresstype": "shop",
+            "name": "Crispy Heaven",
+            "display_name": "Crispy Heaven, Grand Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7226679",
+                "40.7227679",
+                "-74.0042621",
+                "-74.0041621"
+            ]
+        }
+    },
+    {
+        "address": "Baz, 181, Grand Street, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7193429,
+        "longitude": -73.997741,
+        "raw": {
+            "place_id": 330476818,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5265714174,
+            "lat": "40.7193429",
+            "lon": "-73.997741",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.0105932981020937,
+            "addresstype": "shop",
+            "name": "Baz",
+            "display_name": "Baz, 181, Grand Street, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7192929",
+                "40.7193929",
+                "-73.9977910",
+                "-73.9976910"
+            ]
+        }
+    },
+    {
+        "address": "Ho Won Bake, 146, Hester Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7174722,
+        "longitude": -73.9962653,
+        "raw": {
+            "place_id": 331590020,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8486650115,
+            "lat": "40.7174722",
+            "lon": "-73.9962653",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.010842833339114344,
+            "addresstype": "shop",
+            "name": "Ho Won Bake",
+            "display_name": "Ho Won Bake, 146, Hester Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7174222",
+                "40.7175222",
+                "-73.9963153",
+                "-73.9962153"
+            ]
+        }
+    },
+    {
+        "address": "Pi Bakerie, Broome Street, SoHo, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7236477,
+        "longitude": -74.003242,
+        "raw": {
+            "place_id": 329801294,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 12020711369,
+            "lat": "40.7236477",
+            "lon": "-74.003242",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.011266246153887534,
+            "addresstype": "shop",
+            "name": "Pi Bakerie",
+            "display_name": "Pi Bakerie, Broome Street, SoHo, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7235977",
+                "40.7236977",
+                "-74.0032920",
+                "-74.0031920"
+            ]
+        }
+    },
+    {
+        "address": "Fresh Swan Bakery, 88, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7139047,
+        "longitude": -73.994195,
+        "raw": {
+            "place_id": 332709139,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4792165601,
+            "lat": "40.7139047",
+            "lon": "-73.994195",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.011878615895790435,
+            "addresstype": "shop",
+            "name": "Fresh Swan Bakery",
+            "display_name": "Fresh Swan Bakery, 88, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7138547",
+                "40.7139547",
+                "-73.9942450",
+                "-73.9941450"
+            ]
+        }
+    },
+    {
+        "address": "Delicious Huang Bakery, 139, Hester Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7171362,
+        "longitude": -73.9946836,
+        "raw": {
+            "place_id": 331523291,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2555123811,
+            "lat": "40.7171362",
+            "lon": "-73.9946836",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.012158803566543608,
+            "addresstype": "shop",
+            "name": "Delicious Huang Bakery",
+            "display_name": "Delicious Huang Bakery, 139, Hester Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7170862",
+                "40.7171862",
+                "-73.9947336",
+                "-73.9946336"
+            ]
+        }
+    },
+    {
+        "address": "Ladur\u00e9e, West Broadway, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7243749,
+        "longitude": -74.0023047,
+        "raw": {
+            "place_id": 329504753,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5023333921,
+            "lat": "40.7243749",
+            "lon": "-74.0023047",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.012223573965498143,
+            "addresstype": "shop",
+            "name": "Ladur\u00e9e",
+            "display_name": "Ladur\u00e9e, West Broadway, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7243249",
+                "40.7244249",
+                "-74.0023547",
+                "-74.0022547"
+            ]
+        }
+    },
+    {
+        "address": "Eldridge Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7139194,
+        "longitude": -73.9937587,
+        "raw": {
+            "place_id": 332052919,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4792165600,
+            "lat": "40.7139194",
+            "lon": "-73.9937587",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.012314259536805993,
+            "addresstype": "shop",
+            "name": "",
+            "display_name": "Eldridge Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7138694",
+                "40.7139694",
+                "-73.9938087",
+                "-73.9937087"
+            ]
+        }
+    },
+    {
+        "address": "Dominique Ansel Bakery, 189, Spring Street, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.725171,
+        "longitude": -74.00295,
+        "raw": {
+            "place_id": 330075341,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3925063780,
+            "lat": "40.725171",
+            "lon": "-74.00295",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.012814882420453718,
+            "addresstype": "shop",
+            "name": "Dominique Ansel Bakery",
+            "display_name": "Dominique Ansel Bakery, 189, Spring Street, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7251210",
+                "40.7252210",
+                "-74.0030000",
+                "-74.0029000"
+            ]
+        }
+    },
+    {
+        "address": "Vesuvio Bakery, 160, Prince Street, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7259071,
+        "longitude": -74.0014471,
+        "raw": {
+            "place_id": 331150920,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5796438081,
+            "lat": "40.7259071",
+            "lon": "-74.0014471",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.013948246434947529,
+            "addresstype": "shop",
+            "name": "Vesuvio Bakery",
+            "display_name": "Vesuvio Bakery, 160, Prince Street, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7258571",
+                "40.7259571",
+                "-74.0014971",
+                "-74.0013971"
+            ]
+        }
+    },
+    {
+        "address": "Harper's Bread House, 271, Grand Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7177682,
+        "longitude": -73.9930075,
+        "raw": {
+            "place_id": 332712227,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8098089421,
+            "lat": "40.7177682",
+            "lon": "-73.9930075",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.013950013164858537,
+            "addresstype": "shop",
+            "name": "Harper's Bread House",
+            "display_name": "Harper's Bread House, 271, Grand Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7177182",
+                "40.7178182",
+                "-73.9930575",
+                "-73.9929575"
+            ]
+        }
+    },
+    {
+        "address": "Yue Lai Bakery, 137, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7137947,
+        "longitude": -73.9916379,
+        "raw": {
+            "place_id": 334870625,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11835593507,
+            "lat": "40.7137947",
+            "lon": "-73.9916379",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.014416809315857206,
+            "addresstype": "shop",
+            "name": "Yue Lai Bakery",
+            "display_name": "Yue Lai Bakery, 137, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7137447",
+                "40.7138447",
+                "-73.9916879",
+                "-73.9915879"
+            ]
+        }
+    },
+    {
+        "address": "Lucky King Bakery, 280, Grand Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7178755,
+        "longitude": -73.9925404,
+        "raw": {
+            "place_id": 334861912,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8098089422,
+            "lat": "40.7178755",
+            "lon": "-73.9925404",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.014424491734543462,
+            "addresstype": "shop",
+            "name": "Lucky King Bakery",
+            "display_name": "Lucky King Bakery, 280, Grand Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7178255",
+                "40.7179255",
+                "-73.9925904",
+                "-73.9924904"
+            ]
+        }
+    },
+    {
+        "address": "Happy Star Bakery Corporation, 28, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7141841,
+        "longitude": -73.9904023,
+        "raw": {
+            "place_id": 331525193,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6231514606,
+            "lat": "40.7141841",
+            "lon": "-73.9904023",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.015680643558533967,
+            "addresstype": "shop",
+            "name": "Happy Star Bakery Corporation",
+            "display_name": "Happy Star Bakery Corporation, 28, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7141341",
+                "40.7142341",
+                "-73.9904523",
+                "-73.9903523"
+            ]
+        }
+    },
+    {
+        "address": "La Churreria, Mulberry Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7244372,
+        "longitude": -73.9950337,
+        "raw": {
+            "place_id": 332167808,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6422249385,
+            "lat": "40.7244372",
+            "lon": "-73.9950337",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.016052923878843158,
+            "addresstype": "shop",
+            "name": "La Churreria",
+            "display_name": "La Churreria, Mulberry Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7243872",
+                "40.7244872",
+                "-73.9950837",
+                "-73.9949837"
+            ]
+        }
+    },
+    {
+        "address": "Macaron Parlour, 44, Hester Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7155896,
+        "longitude": -73.9901789,
+        "raw": {
+            "place_id": 332509412,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3992545157,
+            "lat": "40.7155896",
+            "lon": "-73.9901789",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.016092749297111294,
+            "addresstype": "shop",
+            "name": "Macaron Parlour",
+            "display_name": "Macaron Parlour, 44, Hester Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7155396",
+                "40.7156396",
+                "-73.9902289",
+                "-73.9901289"
+            ]
+        }
+    },
+    {
+        "address": "Petee's Pie Company, 61, Delancey Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7191095,
+        "longitude": -73.9908638,
+        "raw": {
+            "place_id": 335336485,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9630282109,
+            "lat": "40.7191095",
+            "lon": "-73.9908638",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.016440413252708425,
+            "addresstype": "shop",
+            "name": "Petee's Pie Company",
+            "display_name": "Petee's Pie Company, 61, Delancey Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7190595",
+                "40.7191595",
+                "-73.9909138",
+                "-73.9908138"
+            ]
+        }
+    },
+    {
+        "address": "Levain Bakery NoHo, 340, Lafayette Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7261773,
+        "longitude": -73.9947043,
+        "raw": {
+            "place_id": 334542172,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7243595520,
+            "lat": "40.7261773",
+            "lon": "-73.9947043",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.017573202310622132,
+            "addresstype": "shop",
+            "name": "Levain Bakery NoHo",
+            "display_name": "Levain Bakery NoHo, 340, Lafayette Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7261273",
+                "40.7262273",
+                "-73.9947543",
+                "-73.9946543"
+            ]
+        }
+    },
+    {
+        "address": "Molly's Cupcakes, Bleecker Street, University Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7300211,
+        "longitude": -74.0024697,
+        "raw": {
+            "place_id": 329503177,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6053556686,
+            "lat": "40.7300211",
+            "lon": "-74.0024697",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.017652717050074342,
+            "addresstype": "shop",
+            "name": "Molly's Cupcakes",
+            "display_name": "Molly's Cupcakes, Bleecker Street, University Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7299711",
+                "40.7300711",
+                "-74.0025197",
+                "-74.0024197"
+            ]
+        }
+    },
+    {
+        "address": "Melt Bakery, 132, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7197293,
+        "longitude": -73.9892699,
+        "raw": {
+            "place_id": 331394145,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6233954067,
+            "lat": "40.7197293",
+            "lon": "-73.9892699",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.01814998274186108,
+            "addresstype": "shop",
+            "name": "Melt Bakery",
+            "display_name": "Melt Bakery, 132, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7196793",
+                "40.7197793",
+                "-73.9893199",
+                "-73.9892199"
+            ]
+        }
+    },
+    {
+        "address": "Mille Feuille, 552, LaGuardia Place, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7291839,
+        "longitude": -73.9982031,
+        "raw": {
+            "place_id": 330075426,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7024106348,
+            "lat": "40.7291839",
+            "lon": "-73.9982031",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.018215989131804482,
+            "addresstype": "shop",
+            "name": "Mille Feuille",
+            "display_name": "Mille Feuille, 552, LaGuardia Place, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7291339",
+                "40.7292339",
+                "-73.9982531",
+                "-73.9981531"
+            ]
+        }
+    },
+    {
+        "address": "Davidovich Bakery, Essex Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7177841,
+        "longitude": -73.9883724,
+        "raw": {
+            "place_id": 334870148,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9374707277,
+            "lat": "40.7177841",
+            "lon": "-73.9883724",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.018352970545382753,
+            "addresstype": "shop",
+            "name": "Davidovich Bakery",
+            "display_name": "Davidovich Bakery, Essex Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7177341",
+                "40.7178341",
+                "-73.9884224",
+                "-73.9883224"
+            ]
+        }
+    },
+    {
+        "address": "Marie Blach\u00e8re Bakery & Caf\u00e9, Carmine Street, University Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.730645,
+        "longitude": -74.0019567,
+        "raw": {
+            "place_id": 330849016,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11407297861,
+            "lat": "40.730645",
+            "lon": "-74.0019567",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.018370811845427576,
+            "addresstype": "shop",
+            "name": "Marie Blach\u00e8re Bakery & Caf\u00e9",
+            "display_name": "Marie Blach\u00e8re Bakery & Caf\u00e9, Carmine Street, University Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7305950",
+                "40.7306950",
+                "-74.0020067",
+                "-74.0019067"
+            ]
+        }
+    },
+    {
+        "address": "Sugar Sweet Sunshine, 88, Essex Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7180897,
+        "longitude": -73.9881711,
+        "raw": {
+            "place_id": 329958050,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9374707293,
+            "lat": "40.7180897",
+            "lon": "-73.9881711",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.01863219416412554,
+            "addresstype": "shop",
+            "name": "Sugar Sweet Sunshine",
+            "display_name": "Sugar Sweet Sunshine, 88, Essex Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7180397",
+                "40.7181397",
+                "-73.9882211",
+                "-73.9881211"
+            ]
+        }
+    },
+    {
+        "address": "The Doughnut Project, 10, Morton Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7312468,
+        "longitude": -74.0035596,
+        "raw": {
+            "place_id": 333030075,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5172034022,
+            "lat": "40.7312468",
+            "lon": "-74.0035596",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.01868079819092328,
+            "addresstype": "shop",
+            "name": "The Doughnut Project",
+            "display_name": "The Doughnut Project, 10, Morton Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7311968",
+                "40.7312968",
+                "-74.0036096",
+                "-74.0035096"
+            ]
+        }
+    },
+    {
+        "address": "Allan's Bakery, 166, Allen Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7211114,
+        "longitude": -73.9891168,
+        "raw": {
+            "place_id": 331521784,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2555126641,
+            "lat": "40.7211114",
+            "lon": "-73.9891168",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.018863606268409324,
+            "addresstype": "shop",
+            "name": "Allan's Bakery",
+            "display_name": "Allan's Bakery, 166, Allen Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7210614",
+                "40.7211614",
+                "-73.9891668",
+                "-73.9890668"
+            ]
+        }
+    },
+    {
+        "address": "Lafayette Grand Caf\u00e9 & Bakery, 380, Great Jones Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7275742,
+        "longitude": -73.993705,
+        "raw": {
+            "place_id": 333022226,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5792284140,
+            "lat": "40.7275742",
+            "lon": "-73.993705",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.01928594589979151,
+            "addresstype": "shop",
+            "name": "Lafayette Grand Caf\u00e9 & Bakery",
+            "display_name": "Lafayette Grand Caf\u00e9 & Bakery, 380, Great Jones Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7275242",
+                "40.7276242",
+                "-73.9937550",
+                "-73.9936550"
+            ]
+        }
+    },
+    {
+        "address": "Insomnia Cookie, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7211242,
+        "longitude": -73.9885804,
+        "raw": {
+            "place_id": 332492054,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7097867543,
+            "lat": "40.7211242",
+            "lon": "-73.9885804",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.019351143280168615,
+            "addresstype": "shop",
+            "name": "Insomnia Cookie",
+            "display_name": "Insomnia Cookie, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7210742",
+                "40.7211742",
+                "-73.9886304",
+                "-73.9885304"
+            ]
+        }
+    },
+    {
+        "address": "Supermoon Bakehouse, 120, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7198311,
+        "longitude": -73.9872341,
+        "raw": {
+            "place_id": 332820946,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6595163886,
+            "lat": "40.7198311",
+            "lon": "-73.9872341",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.020079400544088553,
+            "addresstype": "shop",
+            "name": "Supermoon Bakehouse",
+            "display_name": "Supermoon Bakehouse, 120, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7197811",
+                "40.7198811",
+                "-73.9872841",
+                "-73.9871841"
+            ]
+        }
+    },
+    {
+        "address": "Sugar Sweet Sunshine, 126, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7197679,
+        "longitude": -73.9870333,
+        "raw": {
+            "place_id": 332627845,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4305803512,
+            "lat": "40.7197679",
+            "lon": "-73.9870333",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.02024527874962496,
+            "addresstype": "shop",
+            "name": "Sugar Sweet Sunshine",
+            "display_name": "Sugar Sweet Sunshine, 126, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7197179",
+                "40.7198179",
+                "-73.9870833",
+                "-73.9869833"
+            ]
+        }
+    },
+    {
+        "address": "Patisserie Claude, 187, West 4th Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7326391,
+        "longitude": -74.0017782,
+        "raw": {
+            "place_id": 328027325,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4316479389,
+            "lat": "40.7326391",
+            "lon": "-74.0017782",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.020356819250558923,
+            "addresstype": "shop",
+            "name": "Patisserie Claude",
+            "display_name": "Patisserie Claude, 187, West 4th Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7325891",
+                "40.7326891",
+                "-74.0018282",
+                "-74.0017282"
+            ]
+        }
+    },
+    {
+        "address": "Hudson Bagels, 82, Christopher Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7334048,
+        "longitude": -74.0036422,
+        "raw": {
+            "place_id": 328993663,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5265693441,
+            "lat": "40.7334048",
+            "lon": "-74.0036422",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.020812425420648942,
+            "addresstype": "shop",
+            "name": "Hudson Bagels",
+            "display_name": "Hudson Bagels, 82, Christopher Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7333548",
+                "40.7334548",
+                "-74.0036922",
+                "-74.0035922"
+            ]
+        }
+    },
+    {
+        "address": "Davidovich Bakery, 79, Clinton Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7190348,
+        "longitude": -73.9852061,
+        "raw": {
+            "place_id": 332203016,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2826715694,
+            "lat": "40.7190348",
+            "lon": "-73.9852061",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.021743806191644267,
+            "addresstype": "shop",
+            "name": "Davidovich Bakery",
+            "display_name": "Davidovich Bakery, 79, Clinton Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7189848",
+                "40.7190848",
+                "-73.9852561",
+                "-73.9851561"
+            ]
+        }
+    },
+    {
+        "address": "Brooklyn Bagel & Coffee Company, East 8th Street, University Village, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7310464,
+        "longitude": -73.9931939,
+        "raw": {
+            "place_id": 332576223,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9543896717,
+            "lat": "40.7310464",
+            "lon": "-73.9931939",
+            "class": "shop",
+            "type": "bakery",
+            "place_rank": 30,
+            "importance": -0.022359468879646138,
+            "addresstype": "shop",
+            "name": "Brooklyn Bagel & Coffee Company",
+            "display_name": "Brooklyn Bagel & Coffee Company, East 8th Street, University Village, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7309964",
+                "40.7310964",
+                "-73.9932439",
+                "-73.9931439"
+            ]
+        }
+    }
+]

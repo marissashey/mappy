@@ -1,0 +1,1302 @@
+[
+    {
+        "address": "Pace University Bookstore, 41, Park Row, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7117704,
+        "longitude": -74.0061612,
+        "raw": {
+            "place_id": 330857622,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2821326390,
+            "lat": "40.7117704",
+            "lon": "-74.0061612",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.0009687648269841586,
+            "addresstype": "shop",
+            "name": "Pace University Bookstore",
+            "display_name": "Pace University Bookstore, 41, Park Row, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7117204",
+                "40.7118204",
+                "-74.0062112",
+                "-74.0061112"
+            ]
+        }
+    },
+    {
+        "address": "The Mysterious Bookshop, 58, Warren Street, Tribeca, Manhattan, New York County, City of New York, New York, 10007, United States",
+        "latitude": 40.7148891,
+        "longitude": -74.009276,
+        "raw": {
+            "place_id": 332580980,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5641077845,
+            "lat": "40.7148891",
+            "lon": "-74.009276",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.003911871373147134,
+            "addresstype": "shop",
+            "name": "The Mysterious Bookshop",
+            "display_name": "The Mysterious Bookshop, 58, Warren Street, Tribeca, Manhattan, New York County, City of New York, New York, 10007, United States",
+            "boundingbox": [
+                "40.7148391",
+                "40.7149391",
+                "-74.0093260",
+                "-74.0092260"
+            ]
+        }
+    },
+    {
+        "address": "Christian Science Reading Room, John Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7100952,
+        "longitude": -74.0090503,
+        "raw": {
+            "place_id": 334189563,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11119850847,
+            "lat": "40.7100952",
+            "lon": "-74.0090503",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.004017958986854109,
+            "addresstype": "shop",
+            "name": "Christian Science Reading Room",
+            "display_name": "Christian Science Reading Room, John Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7100452",
+                "40.7101452",
+                "-74.0091003",
+                "-74.0090003"
+            ]
+        }
+    },
+    {
+        "address": "Midtown Comics Downtown, 64, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7087516,
+        "longitude": -74.0052709,
+        "raw": {
+            "place_id": 331046879,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4900466400,
+            "lat": "40.7087516",
+            "lon": "-74.0052709",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.004045557407823173,
+            "addresstype": "shop",
+            "name": "Midtown Comics Downtown",
+            "display_name": "Midtown Comics Downtown, 64, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7087016",
+                "40.7088016",
+                "-74.0053209",
+                "-74.0052209"
+            ]
+        }
+    },
+    {
+        "address": "Moleskine store, 185, Greenwich Street, Tribeca, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7136477,
+        "longitude": -74.0116669,
+        "raw": {
+            "place_id": 329401008,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5101080622,
+            "lat": "40.7136477",
+            "lon": "-74.0116669",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.005726026287926142,
+            "addresstype": "shop",
+            "name": "Moleskine store",
+            "display_name": "Moleskine store, 185, Greenwich Street, Tribeca, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7135977",
+                "40.7136977",
+                "-74.0117169",
+                "-74.0116169"
+            ]
+        }
+    },
+    {
+        "address": "Yu & Me Books, 44, Mulberry Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7149625,
+        "longitude": -73.9995421,
+        "raw": {
+            "place_id": 335224424,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 10182473199,
+            "lat": "40.7149625",
+            "lon": "-73.9995421",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.0068478877743370645,
+            "addresstype": "shop",
+            "name": "Yu & Me Books",
+            "display_name": "Yu & Me Books, 44, Mulberry Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7149125",
+                "40.7150125",
+                "-73.9995921",
+                "-73.9994921"
+            ]
+        }
+    },
+    {
+        "address": "McNally Jackson Booksellers, 4, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7063418,
+        "longitude": -74.003438,
+        "raw": {
+            "place_id": 330664922,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11094243742,
+            "lat": "40.7063418",
+            "lon": "-74.003438",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.0068867109370136905,
+            "addresstype": "shop",
+            "name": "McNally Jackson Booksellers",
+            "display_name": "McNally Jackson Booksellers, 4, Fulton Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7062918",
+                "40.7063918",
+                "-74.0034880",
+                "-74.0033880"
+            ]
+        }
+    },
+    {
+        "address": "Oriental Culture Enterprises Co, 13-17, Elizabeth Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7160394,
+        "longitude": -73.9974462,
+        "raw": {
+            "place_id": 331712905,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2501548887,
+            "lat": "40.7160394",
+            "lon": "-73.9974462",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.009186537361264147,
+            "addresstype": "shop",
+            "name": "Oriental Culture Enterprises Co",
+            "display_name": "Oriental Culture Enterprises Co, 13-17, Elizabeth Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7159894",
+                "40.7160894",
+                "-73.9974962",
+                "-73.9973962"
+            ]
+        }
+    },
+    {
+        "address": "Bibliotheque Cafe & Winebar, 54, Mercer Street, SoHo, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7218498,
+        "longitude": -74.0008229,
+        "raw": {
+            "place_id": 332577577,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2555120465,
+            "lat": "40.7218498",
+            "lon": "-74.0008229",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.010495970187644659,
+            "addresstype": "shop",
+            "name": "Bibliotheque Cafe & Winebar",
+            "display_name": "Bibliotheque Cafe & Winebar, 54, Mercer Street, SoHo, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7217998",
+                "40.7218998",
+                "-74.0008729",
+                "-74.0007729"
+            ]
+        }
+    },
+    {
+        "address": "Joanne Hendricks Cookbooks, 488, Greenwich Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7252688,
+        "longitude": -74.0093584,
+        "raw": {
+            "place_id": 333488629,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8996353566,
+            "lat": "40.7252688",
+            "lon": "-74.0093584",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.012978680315428162,
+            "addresstype": "shop",
+            "name": "Joanne Hendricks Cookbooks",
+            "display_name": "Joanne Hendricks Cookbooks, 488, Greenwich Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7252188",
+                "40.7253188",
+                "-74.0094084",
+                "-74.0093084"
+            ]
+        }
+    },
+    {
+        "address": "McnNally Jackson, 134, Prince Street, SoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7254909,
+        "longitude": -74.0005101,
+        "raw": {
+            "place_id": 330846296,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2547223606,
+            "lat": "40.7254909",
+            "lon": "-74.0005101",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.013899467250576886,
+            "addresstype": "shop",
+            "name": "McnNally Jackson",
+            "display_name": "McnNally Jackson, 134, Prince Street, SoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7254409",
+                "40.7255409",
+                "-74.0005601",
+                "-74.0004601"
+            ]
+        }
+    },
+    {
+        "address": "Aeon Bookstore, 151, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7138445,
+        "longitude": -73.9909289,
+        "raw": {
+            "place_id": 334333361,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5891445401,
+            "lat": "40.7138445",
+            "lon": "-73.9909289",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.015127550913805932,
+            "addresstype": "shop",
+            "name": "Aeon Bookstore",
+            "display_name": "Aeon Bookstore, 151, East Broadway, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7137945",
+                "40.7138945",
+                "-73.9909789",
+                "-73.9908789"
+            ]
+        }
+    },
+    {
+        "address": "Housing Works Bookstore Cafe, 126, Crosby Street, SoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7245873,
+        "longitude": -73.9964985,
+        "raw": {
+            "place_id": 331642422,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2501562611,
+            "lat": "40.7245873",
+            "lon": "-73.9964985",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.015205532004172947,
+            "addresstype": "shop",
+            "name": "Housing Works Bookstore Cafe",
+            "display_name": "Housing Works Bookstore Cafe, 126, Crosby Street, SoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7245373",
+                "40.7246373",
+                "-73.9965485",
+                "-73.9964485"
+            ]
+        }
+    },
+    {
+        "address": "Books, 206, Mercer Street, East Village, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7265724,
+        "longitude": -73.9968154,
+        "raw": {
+            "place_id": 332825614,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5910637285,
+            "lat": "40.7265724",
+            "lon": "-73.9968154",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.01662230316562327,
+            "addresstype": "shop",
+            "name": "Books",
+            "display_name": "Books, 206, Mercer Street, East Village, University Village, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7265224",
+                "40.7266224",
+                "-73.9968654",
+                "-73.9967654"
+            ]
+        }
+    },
+    {
+        "address": "Bungee Space, 13, Stanton Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7224818,
+        "longitude": -73.9923162,
+        "raw": {
+            "place_id": 389528625,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11086511016,
+            "lat": "40.7224818",
+            "lon": "-73.9923162",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.016816577080060936,
+            "addresstype": "shop",
+            "name": "Bungee Space",
+            "display_name": "Bungee Space, 13, Stanton Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7224318",
+                "40.7225318",
+                "-73.9923662",
+                "-73.9922662"
+            ]
+        }
+    },
+    {
+        "address": "Carmine Street Comics, Carmine Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7300299,
+        "longitude": -74.0030254,
+        "raw": {
+            "place_id": 331100107,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4725247810,
+            "lat": "40.7300299",
+            "lon": "-74.0030254",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.017558222782500372,
+            "addresstype": "shop",
+            "name": "Carmine Street Comics",
+            "display_name": "Carmine Street Comics, Carmine Street, Hudson Square, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7299799",
+                "40.7300799",
+                "-74.0030754",
+                "-74.0029754"
+            ]
+        }
+    },
+    {
+        "address": "Dashwood Books, 33, Bond Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.7261544,
+        "longitude": -73.9934709,
+        "raw": {
+            "place_id": 331965556,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5243563593,
+            "lat": "40.7261544",
+            "lon": "-73.9934709",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.018374574666632774,
+            "addresstype": "shop",
+            "name": "Dashwood Books",
+            "display_name": "Dashwood Books, 33, Bond Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7261044",
+                "40.7262044",
+                "-73.9935209",
+                "-73.9934209"
+            ]
+        }
+    },
+    {
+        "address": "Codex, 1, Bleecker Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.725405,
+        "longitude": -73.9924896,
+        "raw": {
+            "place_id": 330838350,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6221830978,
+            "lat": "40.725405",
+            "lon": "-73.9924896",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.01853768186613157,
+            "addresstype": "shop",
+            "name": "Codex",
+            "display_name": "Codex, 1, Bleecker Street, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7253550",
+                "40.7254550",
+                "-73.9925396",
+                "-73.9924396"
+            ]
+        }
+    },
+    {
+        "address": "bookbook, 266, Bleecker Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7312795,
+        "longitude": -74.0031402,
+        "raw": {
+            "place_id": 328795893,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5272597583,
+            "lat": "40.7312795",
+            "lon": "-74.0031402",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.018772854523484903,
+            "addresstype": "shop",
+            "name": "bookbook",
+            "display_name": "bookbook, 266, Bleecker Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7312295",
+                "40.7313295",
+                "-74.0031902",
+                "-74.0030902"
+            ]
+        }
+    },
+    {
+        "address": "Bonnie Slotnick Cookbooks, 28, East 2nd Street, East Village, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7252021,
+        "longitude": -73.9907309,
+        "raw": {
+            "place_id": 332821488,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5272612590,
+            "lat": "40.7252021",
+            "lon": "-73.9907309",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.019728418651520068,
+            "addresstype": "shop",
+            "name": "Bonnie Slotnick Cookbooks",
+            "display_name": "Bonnie Slotnick Cookbooks, 28, East 2nd Street, East Village, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7251521",
+                "40.7252521",
+                "-73.9907809",
+                "-73.9906809"
+            ]
+        }
+    },
+    {
+        "address": "PowerHouse Arena, 28, Adams Street, Dumbo, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+        "latitude": 40.7029769,
+        "longitude": -73.9887861,
+        "raw": {
+            "place_id": 331966785,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4058593770,
+            "lat": "40.7029769",
+            "lon": "-73.9887861",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.019797166167149854,
+            "addresstype": "shop",
+            "name": "PowerHouse Arena",
+            "display_name": "PowerHouse Arena, 28, Adams Street, Dumbo, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+            "boundingbox": [
+                "40.7029269",
+                "40.7030269",
+                "-73.9888361",
+                "-73.9887361"
+            ]
+        }
+    },
+    {
+        "address": "NYU Bookstore, 726, Broadway, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7292215,
+        "longitude": -73.9932385,
+        "raw": {
+            "place_id": 334978146,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 886392347,
+            "lat": "40.7292215",
+            "lon": "-73.9932385",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02086327650321921,
+            "addresstype": "shop",
+            "name": "NYU Bookstore",
+            "display_name": "NYU Bookstore, 726, Broadway, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7291715",
+                "40.7292715",
+                "-73.9932885",
+                "-73.9931885"
+            ]
+        }
+    },
+    {
+        "address": "Bluestockings, 116, Suffolk Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7189613,
+        "longitude": -73.9859844,
+        "raw": {
+            "place_id": 331831922,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8034581117,
+            "lat": "40.7189613",
+            "lon": "-73.9859844",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02097822039352766,
+            "addresstype": "shop",
+            "name": "Bluestockings",
+            "display_name": "Bluestockings, 116, Suffolk Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7189113",
+                "40.7190113",
+                "-73.9860344",
+                "-73.9859344"
+            ]
+        }
+    },
+    {
+        "address": "Berl's Brooklyn Poetry Shop, 141, Front Street, Dumbo, Brooklyn, Kings County, City of New York, New York, 11251, United States",
+        "latitude": 40.7025517,
+        "longitude": -73.987427,
+        "raw": {
+            "place_id": 333982614,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6207942929,
+            "lat": "40.7025517",
+            "lon": "-73.987427",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.021191514721695632,
+            "addresstype": "shop",
+            "name": "Berl's Brooklyn Poetry Shop",
+            "display_name": "Berl's Brooklyn Poetry Shop, 141, Front Street, Dumbo, Brooklyn, Kings County, City of New York, New York, 11251, United States",
+            "boundingbox": [
+                "40.7025017",
+                "40.7026017",
+                "-73.9874770",
+                "-73.9873770"
+            ]
+        }
+    },
+    {
+        "address": "Books Are Magic, Montague Street, Brooklyn Heights, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+        "latitude": 40.6947216,
+        "longitude": -73.9945692,
+        "raw": {
+            "place_id": 332365663,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 10234431908,
+            "lat": "40.6947216",
+            "lon": "-73.9945692",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.021336470145030293,
+            "addresstype": "shop",
+            "name": "Books Are Magic",
+            "display_name": "Books Are Magic, Montague Street, Brooklyn Heights, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+            "boundingbox": [
+                "40.6946716",
+                "40.6947716",
+                "-73.9946192",
+                "-73.9945192"
+            ]
+        }
+    },
+    {
+        "address": "Three Lives & Company, 154, West 10th Street, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7343633,
+        "longitude": -74.0015255,
+        "raw": {
+            "place_id": 333259645,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 11120945208,
+            "lat": "40.7343633",
+            "lon": "-74.0015255",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02209613733506113,
+            "addresstype": "shop",
+            "name": "Three Lives & Company",
+            "display_name": "Three Lives & Company, 154, West 10th Street, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7343133",
+                "40.7344133",
+                "-74.0015755",
+                "-74.0014755"
+            ]
+        }
+    },
+    {
+        "address": "Mysterious Time Machine, 418, 6th Avenue, Manhattan, New York County, City of New York, New York, 10011, United States",
+        "latitude": 40.7339808,
+        "longitude": -73.9990418,
+        "raw": {
+            "place_id": 334981166,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4819847422,
+            "lat": "40.7339808",
+            "lon": "-73.9990418",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.022367511369166936,
+            "addresstype": "shop",
+            "name": "Mysterious Time Machine",
+            "display_name": "Mysterious Time Machine, 418, 6th Avenue, Manhattan, New York County, City of New York, New York, 10011, United States",
+            "boundingbox": [
+                "40.7339308",
+                "40.7340308",
+                "-73.9990918",
+                "-73.9989918"
+            ]
+        }
+    },
+    {
+        "address": "Karma Bookstore, 136, East 3rd Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+        "latitude": 40.723791,
+        "longitude": -73.9859167,
+        "raw": {
+            "place_id": 336140705,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 8530354102,
+            "lat": "40.723791",
+            "lon": "-73.9859167",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02294204565115172,
+            "addresstype": "shop",
+            "name": "Karma Bookstore",
+            "display_name": "Karma Bookstore, 136, East 3rd Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+            "boundingbox": [
+                "40.7237410",
+                "40.7238410",
+                "-73.9859667",
+                "-73.9858667"
+            ]
+        }
+    },
+    {
+        "address": "Idlewild books, 170, 7th Avenue South, Manhattan, New York County, City of New York, New York, 10014, United States",
+        "latitude": 40.7355249,
+        "longitude": -74.0019372,
+        "raw": {
+            "place_id": 331050551,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5133517121,
+            "lat": "40.7355249",
+            "lon": "-74.0019372",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.023158673844588428,
+            "addresstype": "shop",
+            "name": "Idlewild books",
+            "display_name": "Idlewild books, 170, 7th Avenue South, Manhattan, New York County, City of New York, New York, 10014, United States",
+            "boundingbox": [
+                "40.7354749",
+                "40.7355749",
+                "-74.0019872",
+                "-74.0018872"
+            ]
+        }
+    },
+    {
+        "address": "Village Works Book Shop, 12, Saint Marks Place, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7291172,
+        "longitude": -73.9892249,
+        "raw": {
+            "place_id": 330078920,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5403604439,
+            "lat": "40.7291172",
+            "lon": "-73.9892249",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02346309384756874,
+            "addresstype": "shop",
+            "name": "Village Works Book Shop",
+            "display_name": "Village Works Book Shop, 12, Saint Marks Place, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7290672",
+                "40.7291672",
+                "-73.9892749",
+                "-73.9891749"
+            ]
+        }
+    },
+    {
+        "address": "Mast Books, 72, Avenue A, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+        "latitude": 40.7246946,
+        "longitude": -73.9843166,
+        "raw": {
+            "place_id": 334099716,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6230641154,
+            "lat": "40.7246946",
+            "lon": "-73.9843166",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.024779555367474025,
+            "addresstype": "shop",
+            "name": "Mast Books",
+            "display_name": "Mast Books, 72, Avenue A, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+            "boundingbox": [
+                "40.7246446",
+                "40.7247446",
+                "-73.9843666",
+                "-73.9842666"
+            ]
+        }
+    },
+    {
+        "address": "Book Club, 197, East 3rd Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+        "latitude": 40.7229329,
+        "longitude": -73.9832846,
+        "raw": {
+            "place_id": 331846715,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7296799858,
+            "lat": "40.7229329",
+            "lon": "-73.9832846",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.024916222012968916,
+            "addresstype": "shop",
+            "name": "Book Club",
+            "display_name": "Book Club, 197, East 3rd Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+            "boundingbox": [
+                "40.7228829",
+                "40.7229829",
+                "-73.9833346",
+                "-73.9832346"
+            ]
+        }
+    },
+    {
+        "address": "Pillow-Cat Books, 328, East 9th Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7286319,
+        "longitude": -73.986176,
+        "raw": {
+            "place_id": 331398917,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6206439272,
+            "lat": "40.7286319",
+            "lon": "-73.986176",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.025426850199736346,
+            "addresstype": "shop",
+            "name": "Pillow-Cat Books",
+            "display_name": "Pillow-Cat Books, 328, East 9th Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7285819",
+                "40.7286819",
+                "-73.9862260",
+                "-73.9861260"
+            ]
+        }
+    },
+    {
+        "address": "Strand Bookstore, 828, Broadway, University Village, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7332796,
+        "longitude": -73.9909401,
+        "raw": {
+            "place_id": 332208656,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 999934639,
+            "lat": "40.7332796",
+            "lon": "-73.9909401",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.025487698841987247,
+            "addresstype": "shop",
+            "name": "Strand Bookstore",
+            "display_name": "Strand Bookstore, 828, Broadway, University Village, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7332296",
+                "40.7333296",
+                "-73.9909901",
+                "-73.9908901"
+            ]
+        }
+    },
+    {
+        "address": "Freebird Books, Columbia Street, Columbia Street Waterfront District, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+        "latitude": 40.6874413,
+        "longitude": -74.0013724,
+        "raw": {
+            "place_id": 331126164,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6501029660,
+            "lat": "40.6874413",
+            "lon": "-74.0013724",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.025709489416941164,
+            "addresstype": "shop",
+            "name": "Freebird Books",
+            "display_name": "Freebird Books, Columbia Street, Columbia Street Waterfront District, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "boundingbox": [
+                "40.6873913",
+                "40.6874913",
+                "-74.0014224",
+                "-74.0013224"
+            ]
+        }
+    },
+    {
+        "address": "Alabaster Bookshop, 122, 4th Avenue, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7330343,
+        "longitude": -73.9901652,
+        "raw": {
+            "place_id": 332195538,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2547193343,
+            "lat": "40.7330343",
+            "lon": "-73.9901652",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.025759741039839128,
+            "addresstype": "shop",
+            "name": "Alabaster Bookshop",
+            "display_name": "Alabaster Bookshop, 122, 4th Avenue, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7329843",
+                "40.7330843",
+                "-73.9902152",
+                "-73.9901152"
+            ]
+        }
+    },
+    {
+        "address": "East Village Books, 99, Saint Marks Place, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+        "latitude": 40.7273887,
+        "longitude": -73.9845283,
+        "raw": {
+            "place_id": 354133918,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 12327472114,
+            "lat": "40.7273887",
+            "lon": "-73.9845283",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02601192157396191,
+            "addresstype": "shop",
+            "name": "East Village Books",
+            "display_name": "East Village Books, 99, Saint Marks Place, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009, United States",
+            "boundingbox": [
+                "40.7273387",
+                "40.7274387",
+                "-73.9845783",
+                "-73.9844783"
+            ]
+        }
+    },
+    {
+        "address": "Barnes & Noble, 194, Atlantic Avenue, Cobble Hill Historic District, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+        "latitude": 40.6897873,
+        "longitude": -73.9933407,
+        "raw": {
+            "place_id": 335131111,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6534289838,
+            "lat": "40.6897873",
+            "lon": "-73.9933407",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.02620922079898105,
+            "addresstype": "shop",
+            "name": "Barnes & Noble",
+            "display_name": "Barnes & Noble, 194, Atlantic Avenue, Cobble Hill Historic District, Brooklyn, Kings County, City of New York, New York, 11201, United States",
+            "boundingbox": [
+                "40.6897373",
+                "40.6898373",
+                "-73.9933907",
+                "-73.9932907"
+            ]
+        }
+    },
+    {
+        "address": "Small Editions, 60, Sackett Street, Red Hook Container Terminal, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+        "latitude": 40.6856374,
+        "longitude": -74.0051542,
+        "raw": {
+            "place_id": 328863102,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3674008668,
+            "lat": "40.6856374",
+            "lon": "-74.0051542",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.027104378751229438,
+            "addresstype": "shop",
+            "name": "Small Editions",
+            "display_name": "Small Editions, 60, Sackett Street, Red Hook Container Terminal, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "boundingbox": [
+                "40.6855874",
+                "40.6856874",
+                "-74.0052042",
+                "-74.0051042"
+            ]
+        }
+    },
+    {
+        "address": "Aum Shanti, 230, East 14th Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7326379,
+        "longitude": -73.9860423,
+        "raw": {
+            "place_id": 333035276,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 3676793736,
+            "lat": "40.7326379",
+            "lon": "-73.9860423",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.028201362918305713,
+            "addresstype": "shop",
+            "name": "Aum Shanti",
+            "display_name": "Aum Shanti, 230, East 14th Street, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7325879",
+                "40.7326879",
+                "-73.9860923",
+                "-73.9859923"
+            ]
+        }
+    },
+    {
+        "address": "Barnes & Noble, 33, East 17th Street, Union Square, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10003, United States",
+        "latitude": 40.7369258,
+        "longitude": -73.9896011,
+        "raw": {
+            "place_id": 331713450,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 368053310,
+            "lat": "40.7369258",
+            "lon": "-73.9896011",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.029239551366254213,
+            "addresstype": "shop",
+            "name": "Barnes & Noble",
+            "display_name": "Barnes & Noble, 33, East 17th Street, Union Square, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10003, United States",
+            "boundingbox": [
+                "40.7368758",
+                "40.7369758",
+                "-73.9896511",
+                "-73.9895511"
+            ]
+        }
+    },
+    {
+        "address": "Idlewild books, 170, 7th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States",
+        "latitude": 40.7424158,
+        "longitude": -73.997102,
+        "raw": {
+            "place_id": 332181087,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2703075135,
+            "lat": "40.7424158",
+            "lon": "-73.997102",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.030996849283921313,
+            "addresstype": "shop",
+            "name": "Idlewild books",
+            "display_name": "Idlewild books, 170, 7th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States",
+            "boundingbox": [
+                "40.7423658",
+                "40.7424658",
+                "-73.9971520",
+                "-73.9970520"
+            ]
+        }
+    },
+    {
+        "address": "McNally Jackson, 445, Albee Square, Downtown Brooklyn, Brooklyn, Kings County, City of New York, New York, 11242, United States",
+        "latitude": 40.6907682,
+        "longitude": -73.9830383,
+        "raw": {
+            "place_id": 396087462,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 12480632409,
+            "lat": "40.6907682",
+            "lon": "-73.9830383",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.03178325253367638,
+            "addresstype": "shop",
+            "name": "McNally Jackson",
+            "display_name": "McNally Jackson, 445, Albee Square, Downtown Brooklyn, Brooklyn, Kings County, City of New York, New York, 11242, United States",
+            "boundingbox": [
+                "40.6907182",
+                "40.6908182",
+                "-73.9830883",
+                "-73.9829883"
+            ]
+        }
+    },
+    {
+        "address": "Books Are Magic, 225, Smith Street, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+        "latitude": 40.6840334,
+        "longitude": -73.9921482,
+        "raw": {
+            "place_id": 331799748,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5272613652,
+            "lat": "40.6840334",
+            "lon": "-73.9921482",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.031869726969177004,
+            "addresstype": "shop",
+            "name": "Books Are Magic",
+            "display_name": "Books Are Magic, 225, Smith Street, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "boundingbox": [
+                "40.6839834",
+                "40.6840834",
+                "-73.9921982",
+                "-73.9920982"
+            ]
+        }
+    },
+    {
+        "address": "Liz\u2019s  Book Bar, Smith Street, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+        "latitude": 40.6812052,
+        "longitude": -73.9940616,
+        "raw": {
+            "place_id": 332499903,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 12043679262,
+            "lat": "40.6812052",
+            "lon": "-73.9940616",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.03371322852190045,
+            "addresstype": "shop",
+            "name": "Liz\u2019s  Book Bar",
+            "display_name": "Liz\u2019s  Book Bar, Smith Street, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "boundingbox": [
+                "40.6811552",
+                "40.6812552",
+                "-73.9941116",
+                "-73.9940116"
+            ]
+        }
+    },
+    {
+        "address": "192 Books, 192, 10th Avenue, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States",
+        "latitude": 40.7466285,
+        "longitude": -74.0047259,
+        "raw": {
+            "place_id": 328452864,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2322155479,
+            "lat": "40.7466285",
+            "lon": "-74.0047259",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.03392490846929449,
+            "addresstype": "shop",
+            "name": "192 Books",
+            "display_name": "192 Books, 192, 10th Avenue, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States",
+            "boundingbox": [
+                "40.7465785",
+                "40.7466785",
+                "-74.0047759",
+                "-74.0046759"
+            ]
+        }
+    },
+    {
+        "address": "Rizzoli, 1133, Broadway, NoMad, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10010, United States",
+        "latitude": 40.7435762,
+        "longitude": -73.9892435,
+        "raw": {
+            "place_id": 330491791,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4552991504,
+            "lat": "40.7435762",
+            "lon": "-73.9892435",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.035112607344083,
+            "addresstype": "shop",
+            "name": "Rizzoli",
+            "display_name": "Rizzoli, 1133, Broadway, NoMad, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10010, United States",
+            "boundingbox": [
+                "40.7435262",
+                "40.7436262",
+                "-73.9892935",
+                "-73.9891935"
+            ]
+        }
+    },
+    {
+        "address": "Dar-Us-Salam Bookstore, Atlantic Avenue, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11208, United States",
+        "latitude": 40.6857118,
+        "longitude": -73.9821364,
+        "raw": {
+            "place_id": 334406090,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 419368080,
+            "lat": "40.6857118",
+            "lon": "-73.9821364",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.03605658823473974,
+            "addresstype": "shop",
+            "name": "Dar-Us-Salam Bookstore",
+            "display_name": "Dar-Us-Salam Bookstore, Atlantic Avenue, Boerum Hill, Brooklyn, Kings County, City of New York, New York, 11208, United States",
+            "boundingbox": [
+                "40.6856618",
+                "40.6857618",
+                "-73.9821864",
+                "-73.9820864"
+            ]
+        }
+    },
+    {
+        "address": "Center for Fiction Bookstore, 15, Lafayette Avenue, Fort Greene, Brooklyn, Kings County, City of New York, New York, 11217, United States",
+        "latitude": 40.6869367,
+        "longitude": -73.9784927,
+        "raw": {
+            "place_id": 332895250,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6680144181,
+            "lat": "40.6869367",
+            "lon": "-73.9784927",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.03771848777734271,
+            "addresstype": "shop",
+            "name": "Center for Fiction Bookstore",
+            "display_name": "Center for Fiction Bookstore, 15, Lafayette Avenue, Fort Greene, Brooklyn, Kings County, City of New York, New York, 11217, United States",
+            "boundingbox": [
+                "40.6868867",
+                "40.6869867",
+                "-73.9785427",
+                "-73.9784427"
+            ]
+        }
+    },
+    {
+        "address": "Printed Matter Inc., 231, 11th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10018, United States",
+        "latitude": 40.7506824,
+        "longitude": -74.0059313,
+        "raw": {
+            "place_id": 331086778,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 4310137730,
+            "lat": "40.7506824",
+            "lon": "-74.0059313",
+            "class": "shop",
+            "type": "books",
+            "place_rank": 30,
+            "importance": -0.037954392732596855,
+            "addresstype": "shop",
+            "name": "Printed Matter Inc.",
+            "display_name": "Printed Matter Inc., 231, 11th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10018, United States",
+            "boundingbox": [
+                "40.7506324",
+                "40.7507324",
+                "-74.0059813",
+                "-74.0058813"
+            ]
+        }
+    }
+]

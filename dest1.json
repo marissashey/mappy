@@ -1,0 +1,1302 @@
+[
+    {
+        "address": "City Hall Park, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10007, United States",
+        "latitude": 40.71286785,
+        "longitude": -74.00586977687581,
+        "raw": {
+            "place_id": 331955839,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 413055246,
+            "lat": "40.71286785",
+            "lon": "-74.00586977687581",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.00014417054324619222,
+            "addresstype": "park",
+            "name": "City Hall Park",
+            "display_name": "City Hall Park, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10007, United States",
+            "boundingbox": [
+                "40.7117902",
+                "40.7139781",
+                "-74.0078218",
+                "-74.0043472"
+            ]
+        }
+    },
+    {
+        "address": "Lower Manhattan, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7111685,
+        "longitude": -74.00587802319455,
+        "raw": {
+            "place_id": 332579700,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 292727035,
+            "lat": "40.7111685",
+            "lon": "-74.00587802319455",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0015776140677505486,
+            "addresstype": "park",
+            "name": "",
+            "display_name": "Lower Manhattan, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7109415",
+                "40.7113814",
+                "-74.0062054",
+                "-74.0055329"
+            ]
+        }
+    },
+    {
+        "address": "Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7104433,
+        "longitude": -74.00578933940778,
+        "raw": {
+            "place_id": 329697841,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 891074490,
+            "lat": "40.7104433",
+            "lon": "-74.00578933940778",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.002316084212833582,
+            "addresstype": "park",
+            "name": "",
+            "display_name": "Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7102751",
+                "40.7105901",
+                "-74.0059500",
+                "-74.0056690"
+            ]
+        }
+    },
+    {
+        "address": "African Burial Ground National Monument, 290, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10007, United States",
+        "latitude": 40.71452515,
+        "longitude": -74.0044656547183,
+        "raw": {
+            "place_id": 328033678,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 11077079,
+            "lat": "40.71452515",
+            "lon": "-74.0044656547183",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.002375594325329234,
+            "addresstype": "park",
+            "name": "African Burial Ground National Monument",
+            "display_name": "African Burial Ground National Monument, 290, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10007, United States",
+            "boundingbox": [
+                "40.7143049",
+                "40.7147474",
+                "-74.0047900",
+                "-74.0041381"
+            ]
+        }
+    },
+    {
+        "address": "Drumgoole Plaza, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.711058050000005,
+        "longitude": -74.004148838563,
+        "raw": {
+            "place_id": 332099114,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 498671779,
+            "lat": "40.711058050000005",
+            "lon": "-74.004148838563",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0025356454746650026,
+            "addresstype": "park",
+            "name": "Drumgoole Plaza",
+            "display_name": "Drumgoole Plaza, Lower Manhattan, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7107004",
+                "40.7114034",
+                "-74.0044760",
+                "-74.0037137"
+            ]
+        }
+    },
+    {
+        "address": "Tribeca Tower Courtyard, Lower Manhattan, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7157967,
+        "longitude": -74.00624514949999,
+        "raw": {
+            "place_id": 331038287,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 453456965,
+            "lat": "40.7157967",
+            "lon": "-74.00624514949999",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0030791402778761576,
+            "addresstype": "park",
+            "name": "Tribeca Tower Courtyard",
+            "display_name": "Tribeca Tower Courtyard, Lower Manhattan, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7155978",
+                "40.7159863",
+                "-74.0064706",
+                "-74.0058914"
+            ]
+        }
+    },
+    {
+        "address": "Brooklyn Banks, Civic Center, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7112116,
+        "longitude": -74.00255317343354,
+        "raw": {
+            "place_id": 330223346,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 15902634,
+            "lat": "40.7112116",
+            "lon": "-74.00255317343354",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0034909243668587017,
+            "addresstype": "park",
+            "name": "Brooklyn Banks",
+            "display_name": "Brooklyn Banks, Civic Center, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7108830",
+                "40.7120634",
+                "-74.0037269",
+                "-74.0021678"
+            ]
+        }
+    },
+    {
+        "address": "DeLury Square, 77, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7091044,
+        "longitude": -74.00505276292651,
+        "raw": {
+            "place_id": 333283873,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 53189828,
+            "lat": "40.7091044",
+            "lon": "-74.00505276292651",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.003760509070750081,
+            "addresstype": "park",
+            "name": "DeLury Square",
+            "display_name": "DeLury Square, 77, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7089374",
+                "40.7092784",
+                "-74.0052514",
+                "-74.0048041"
+            ]
+        }
+    },
+    {
+        "address": "Thomas Paine Park, Five Points, Manhattan, New York County, City of New York, New York, 10007, United States",
+        "latitude": 40.71475435,
+        "longitude": -74.00275866120272,
+        "raw": {
+            "place_id": 328743693,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 13613032,
+            "lat": "40.71475435",
+            "lon": "-74.00275866120272",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.003941901015752953,
+            "addresstype": "park",
+            "name": "Thomas Paine Park",
+            "display_name": "Thomas Paine Park, Five Points, Manhattan, New York County, City of New York, New York, 10007, United States",
+            "boundingbox": [
+                "40.7140833",
+                "40.7154779",
+                "-74.0032731",
+                "-74.0014505"
+            ]
+        }
+    },
+    {
+        "address": "Financial District, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7091196,
+        "longitude": -74.00826368338767,
+        "raw": {
+            "place_id": 329810727,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 375369089,
+            "lat": "40.7091196",
+            "lon": "-74.00826368338767",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0042095552269434755,
+            "addresstype": "park",
+            "name": "",
+            "display_name": "Financial District, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7090436",
+                "40.7092483",
+                "-74.0083437",
+                "-74.0081188"
+            ]
+        }
+    },
+    {
+        "address": "Bogardus Plaza, 5, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.71581955,
+        "longitude": -74.00922552768955,
+        "raw": {
+            "place_id": 333375353,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 124814434,
+            "lat": "40.71581955",
+            "lon": "-74.00922552768955",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0045091523459173735,
+            "addresstype": "park",
+            "name": "Bogardus Plaza",
+            "display_name": "Bogardus Plaza, 5, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7156111",
+                "40.7162034",
+                "-74.0093843",
+                "-74.0089459"
+            ]
+        }
+    },
+    {
+        "address": "Pearl Street Playground, 49, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7079117,
+        "longitude": -74.00399043896215,
+        "raw": {
+            "place_id": 329812073,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 890862859,
+            "lat": "40.7079117",
+            "lon": "-74.00399043896215",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005248212257188172,
+            "addresstype": "park",
+            "name": "Pearl Street Playground",
+            "display_name": "Pearl Street Playground, 49, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7076121",
+                "40.7082119",
+                "-74.0042812",
+                "-74.0035358"
+            ]
+        }
+    },
+    {
+        "address": "Louise Nevelson Plaza, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.70765915,
+        "longitude": -74.00795107045016,
+        "raw": {
+            "place_id": 331164457,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 109447376,
+            "lat": "40.70765915",
+            "lon": "-74.00795107045016",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005407956993310401,
+            "addresstype": "park",
+            "name": "Louise Nevelson Plaza",
+            "display_name": "Louise Nevelson Plaza, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7074061",
+                "40.7079018",
+                "-74.0081875",
+                "-74.0076584"
+            ]
+        }
+    },
+    {
+        "address": "Silverstein Family Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.713214699999995,
+        "longitude": -74.01146329293894,
+        "raw": {
+            "place_id": 329509778,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 15039698,
+            "lat": "40.713214699999995",
+            "lon": "-74.01146329293894",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005491931383899972,
+            "addresstype": "park",
+            "name": "Silverstein Family Park",
+            "display_name": "Silverstein Family Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7128566",
+                "40.7135137",
+                "-74.0117348",
+                "-74.0111547"
+            ]
+        }
+    },
+    {
+        "address": "Collect Pond Park, 130, Civic Center, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.71631225,
+        "longitude": -74.00185169072279,
+        "raw": {
+            "place_id": 330079400,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 108153375,
+            "lat": "40.71631225",
+            "lon": "-74.00185169072279",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.00550706932072571,
+            "addresstype": "park",
+            "name": "Collect Pond Park",
+            "display_name": "Collect Pond Park, 130, Civic Center, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7158371",
+                "40.7167549",
+                "-74.0024370",
+                "-74.0012749"
+            ]
+        }
+    },
+    {
+        "address": "Duane Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7171291,
+        "longitude": -74.00930828508041,
+        "raw": {
+            "place_id": 334184542,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 147035202,
+            "lat": "40.7171291",
+            "lon": "-74.00930828508041",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005577236007758884,
+            "addresstype": "park",
+            "name": "Duane Park",
+            "display_name": "Duane Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7170321",
+                "40.7172931",
+                "-74.0096514",
+                "-74.0091629"
+            ]
+        }
+    },
+    {
+        "address": "Titanic Memorial Park, Financial District, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.70751195,
+        "longitude": -74.00367845272696,
+        "raw": {
+            "place_id": 333499184,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 109441961,
+            "lat": "40.70751195",
+            "lon": "-74.00367845272696",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005696993527087295,
+            "addresstype": "park",
+            "name": "Titanic Memorial Park",
+            "display_name": "Titanic Memorial Park, Financial District, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7073171",
+                "40.7077613",
+                "-74.0039573",
+                "-74.0034236"
+            ]
+        }
+    },
+    {
+        "address": "James Madison Plaza, 1, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.711402699999994,
+        "longitude": -74.00047166874054,
+        "raw": {
+            "place_id": 329400007,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 109330342,
+            "lat": "40.711402699999994",
+            "lon": "-74.00047166874054",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005724690916086413,
+            "addresstype": "park",
+            "name": "James Madison Plaza",
+            "display_name": "James Madison Plaza, 1, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7111530",
+                "40.7116922",
+                "-74.0007875",
+                "-73.9999623"
+            ]
+        }
+    },
+    {
+        "address": "Fishbridge Park Garden, Civic Center, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.70906075,
+        "longitude": -74.00135016117994,
+        "raw": {
+            "place_id": 328041861,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 890862858,
+            "lat": "40.70906075",
+            "lon": "-74.00135016117994",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.005916690694648216,
+            "addresstype": "park",
+            "name": "Fishbridge Park Garden",
+            "display_name": "Fishbridge Park Garden, Civic Center, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7087920",
+                "40.7093323",
+                "-74.0016868",
+                "-74.0009803"
+            ]
+        }
+    },
+    {
+        "address": "Finn Square, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.7185985,
+        "longitude": -74.00690920720362,
+        "raw": {
+            "place_id": 330468309,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 219612698,
+            "lat": "40.7185985",
+            "lon": "-74.00690920720362",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.006038618283934135,
+            "addresstype": "park",
+            "name": "Finn Square",
+            "display_name": "Finn Square, Tribeca, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7183373",
+                "40.7189468",
+                "-74.0070374",
+                "-74.0067001"
+            ]
+        }
+    },
+    {
+        "address": "Zuccotti Park, Financial District, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.70922885,
+        "longitude": -74.01125678830543,
+        "raw": {
+            "place_id": 329860664,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 25026338,
+            "lat": "40.70922885",
+            "lon": "-74.01125678830543",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.006303441846866255,
+            "addresstype": "park",
+            "name": "Zuccotti Park",
+            "display_name": "Zuccotti Park, Financial District, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7088815",
+                "40.7095813",
+                "-74.0118396",
+                "-74.0106682"
+            ]
+        }
+    },
+    {
+        "address": "Columbus Park, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.71485715,
+        "longitude": -74.0000601950562,
+        "raw": {
+            "place_id": 334181864,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 66374787,
+            "lat": "40.71485715",
+            "lon": "-74.0000601950562",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.006470322515121944,
+            "addresstype": "park",
+            "name": "Columbus Park",
+            "display_name": "Columbus Park, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7140403",
+                "40.7161457",
+                "-74.0006979",
+                "-73.9994074"
+            ]
+        }
+    },
+    {
+        "address": "Peck Slip, Civic Center, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.70779675,
+        "longitude": -74.00155168969391,
+        "raw": {
+            "place_id": 330164604,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1127559545,
+            "lat": "40.70779675",
+            "lon": "-74.00155168969391",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.00670107323891064,
+            "addresstype": "park",
+            "name": "Peck Slip",
+            "display_name": "Peck Slip, Civic Center, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7073692",
+                "40.7082311",
+                "-74.0019708",
+                "-74.0011274"
+            ]
+        }
+    },
+    {
+        "address": "South Street Seaport Historic District, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7065114,
+        "longitude": -74.0033727,
+        "raw": {
+            "place_id": 329858058,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 357607904,
+            "lat": "40.7065114",
+            "lon": "-74.0033727",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.006755010373049206,
+            "addresstype": "park",
+            "name": "South Street Seaport Historic District",
+            "display_name": "South Street Seaport Historic District, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7064614",
+                "40.7065614",
+                "-74.0034227",
+                "-74.0033227"
+            ]
+        }
+    },
+    {
+        "address": "Imagination Playground, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7061833,
+        "longitude": -74.00408891173781,
+        "raw": {
+            "place_id": 328202388,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1127851294,
+            "lat": "40.7061833",
+            "lon": "-74.00408891173781",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0068122630877387735,
+            "addresstype": "park",
+            "name": "Imagination Playground",
+            "display_name": "Imagination Playground, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7058694",
+                "40.7065284",
+                "-74.0045020",
+                "-74.0036946"
+            ]
+        }
+    },
+    {
+        "address": "Washington Market Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.717027099999996,
+        "longitude": -74.01160267658159,
+        "raw": {
+            "place_id": 332594866,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 22926980,
+            "lat": "40.717027099999996",
+            "lon": "-74.01160267658159",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.006983805376227977,
+            "addresstype": "park",
+            "name": "Washington Market Park",
+            "display_name": "Washington Market Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7165010",
+                "40.7175577",
+                "-74.0124819",
+                "-74.0108046"
+            ]
+        }
+    },
+    {
+        "address": "Saint James Triangle, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7127176,
+        "longitude": -73.99850642510536,
+        "raw": {
+            "place_id": 331813821,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 890862707,
+            "lat": "40.7127176",
+            "lon": "-73.99850642510536",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.0074828810994895445,
+            "addresstype": "park",
+            "name": "Saint James Triangle",
+            "display_name": "Saint James Triangle, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7126230",
+                "40.7128085",
+                "-73.9986866",
+                "-73.9984127"
+            ]
+        }
+    },
+    {
+        "address": "Tribeca Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.72019555,
+        "longitude": -74.00555385367792,
+        "raw": {
+            "place_id": 333031321,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 613509792,
+            "lat": "40.72019555",
+            "lon": "-74.00555385367792",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.007496665961375986,
+            "addresstype": "park",
+            "name": "Tribeca Park",
+            "display_name": "Tribeca Park, Tribeca, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7199689",
+                "40.7204772",
+                "-74.0061364",
+                "-74.0052641"
+            ]
+        }
+    },
+    {
+        "address": "Chatham Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7135058,
+        "longitude": -73.9985306,
+        "raw": {
+            "place_id": 332081675,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 357610563,
+            "lat": "40.7135058",
+            "lon": "-73.9985306",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.00752489564379268,
+            "addresstype": "park",
+            "name": "Chatham Square",
+            "display_name": "Chatham Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7134558",
+                "40.7135558",
+                "-73.9985806",
+                "-73.9984806"
+            ]
+        }
+    },
+    {
+        "address": "Liberty Park, Battery Park City, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7102404,
+        "longitude": -74.01348370305644,
+        "raw": {
+            "place_id": 329408016,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 22926662,
+            "lat": "40.7102404",
+            "lon": "-74.01348370305644",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.007931905378860692,
+            "addresstype": "park",
+            "name": "Liberty Park",
+            "display_name": "Liberty Park, Battery Park City, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7096737",
+                "40.7107860",
+                "-74.0143552",
+                "-74.0128136"
+            ]
+        }
+    },
+    {
+        "address": "Mannahatta Park, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+        "latitude": 40.70457105,
+        "longitude": -74.0064126711164,
+        "raw": {
+            "place_id": 329008681,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6802606,
+            "lat": "40.70457105",
+            "lon": "-74.0064126711164",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.008014414874050607,
+            "addresstype": "park",
+            "name": "Mannahatta Park",
+            "display_name": "Mannahatta Park, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+            "boundingbox": [
+                "40.7043282",
+                "40.7052398",
+                "-74.0072689",
+                "-74.0060603"
+            ]
+        }
+    },
+    {
+        "address": "Kimlau Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.71340705,
+        "longitude": -73.99803031964072,
+        "raw": {
+            "place_id": 331488523,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 86714429,
+            "lat": "40.71340705",
+            "lon": "-73.99803031964072",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.00801574645828287,
+            "addresstype": "park",
+            "name": "Kimlau Square",
+            "display_name": "Kimlau Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7132401",
+                "40.7135783",
+                "-73.9982984",
+                "-73.9977039"
+            ]
+        }
+    },
+    {
+        "address": "The Queen Elizabeth II September 11th Garden, 11, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+        "latitude": 40.70479745,
+        "longitude": -74.00942441760432,
+        "raw": {
+            "place_id": 332103816,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 208360494,
+            "lat": "40.70479745",
+            "lon": "-74.00942441760432",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.008593501684364535,
+            "addresstype": "park",
+            "name": "The Queen Elizabeth II September 11th Garden",
+            "display_name": "The Queen Elizabeth II September 11th Garden, 11, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+            "boundingbox": [
+                "40.7046176",
+                "40.7049764",
+                "-74.0097208",
+                "-74.0089484"
+            ]
+        }
+    },
+    {
+        "address": "Playground One, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.71227355,
+        "longitude": -73.9974089531619,
+        "raw": {
+            "place_id": 331970474,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 242113355,
+            "lat": "40.71227355",
+            "lon": "-73.9974089531619",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.008621074540217046,
+            "addresstype": "park",
+            "name": "Playground One",
+            "display_name": "Playground One, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7120515",
+                "40.7124555",
+                "-73.9978333",
+                "-73.9969850"
+            ]
+        }
+    },
+    {
+        "address": "Alfred E. Smith Playground, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+        "latitude": 40.7106061,
+        "longitude": -73.99742966815457,
+        "raw": {
+            "place_id": 334228512,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 325008929,
+            "lat": "40.7106061",
+            "lon": "-73.99742966815457",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.008815866643951642,
+            "addresstype": "park",
+            "name": "Alfred E. Smith Playground",
+            "display_name": "Alfred E. Smith Playground, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10038, United States",
+            "boundingbox": [
+                "40.7099501",
+                "40.7113287",
+                "-73.9982079",
+                "-73.9967301"
+            ]
+        }
+    },
+    {
+        "address": "East River Waterfront Esplanade, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7036727,
+        "longitude": -74.00684413525423,
+        "raw": {
+            "place_id": 331848510,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 16066428,
+            "lat": "40.7036727",
+            "lon": "-74.00684413525423",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.008913745478176567,
+            "addresstype": "park",
+            "name": "East River Waterfront Esplanade",
+            "display_name": "East River Waterfront Esplanade, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7014586",
+                "40.7102121",
+                "-74.0112204",
+                "-73.9881667"
+            ]
+        }
+    },
+    {
+        "address": "Old Slip Park, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+        "latitude": 40.703895700000004,
+        "longitude": -74.00859324795809,
+        "raw": {
+            "place_id": 330860360,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 8176996,
+            "lat": "40.703895700000004",
+            "lon": "-74.00859324795809",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009209335421566434,
+            "addresstype": "park",
+            "name": "Old Slip Park",
+            "display_name": "Old Slip Park, Financial District, Manhattan, New York County, City of New York, New York, 10005, United States",
+            "boundingbox": [
+                "40.7036288",
+                "40.7041127",
+                "-74.0088569",
+                "-74.0082730"
+            ]
+        }
+    },
+    {
+        "address": "Albert Capsouto Park, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.722110099999995,
+        "longitude": -74.00607016150502,
+        "raw": {
+            "place_id": 331954313,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 497484756,
+            "lat": "40.722110099999995",
+            "lon": "-74.00607016150502",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009278532688677054,
+            "addresstype": "park",
+            "name": "Albert Capsouto Park",
+            "display_name": "Albert Capsouto Park, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7217841",
+                "40.7223614",
+                "-74.0063325",
+                "-74.0054493"
+            ]
+        }
+    },
+    {
+        "address": "Tribeca, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.716727500000005,
+        "longitude": -74.0146782532716,
+        "raw": {
+            "place_id": 330082494,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 16862340,
+            "lat": "40.716727500000005",
+            "lon": "-74.0146782532716",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009512684428572005,
+            "addresstype": "park",
+            "name": "",
+            "display_name": "Tribeca, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7160434",
+                "40.7176459",
+                "-74.0152451",
+                "-74.0139136"
+            ]
+        }
+    },
+    {
+        "address": "Murray Street Triangle, Battery Park City, Manhattan, New York County, City of New York, New York, 10282, United States",
+        "latitude": 40.71561355,
+        "longitude": -74.01520424753377,
+        "raw": {
+            "place_id": 333034916,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 539005582,
+            "lat": "40.71561355",
+            "lon": "-74.01520424753377",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009562740475274775,
+            "addresstype": "park",
+            "name": "Murray Street Triangle",
+            "display_name": "Murray Street Triangle, Battery Park City, Manhattan, New York County, City of New York, New York, 10282, United States",
+            "boundingbox": [
+                "40.7154707",
+                "40.7157495",
+                "-74.0154283",
+                "-74.0147417"
+            ]
+        }
+    },
+    {
+        "address": "Grand Canal Court, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.722299500000005,
+        "longitude": -74.0050451952479,
+        "raw": {
+            "place_id": 328030926,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1221100069,
+            "lat": "40.722299500000005",
+            "lon": "-74.0050451952479",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009616406870930223,
+            "addresstype": "park",
+            "name": "Grand Canal Court",
+            "display_name": "Grand Canal Court, Hudson Square, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7220957",
+                "40.7225028",
+                "-74.0052524",
+                "-74.0048152"
+            ]
+        }
+    },
+    {
+        "address": "Duarte Square, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.72251075,
+        "longitude": -74.00550998234408,
+        "raw": {
+            "place_id": 330848651,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 108153676,
+            "lat": "40.72251075",
+            "lon": "-74.00550998234408",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009790556779373457,
+            "addresstype": "park",
+            "name": "Duarte Square",
+            "display_name": "Duarte Square, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7221168",
+                "40.7229684",
+                "-74.0057976",
+                "-74.0051924"
+            ]
+        }
+    },
+    {
+        "address": "The Elevated Acre, Financial District, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7032066,
+        "longitude": -74.00864381754937,
+        "raw": {
+            "place_id": 329694842,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 743395860,
+            "lat": "40.7032066",
+            "lon": "-74.00864381754937",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.009885275853950892,
+            "addresstype": "park",
+            "name": "The Elevated Acre",
+            "display_name": "The Elevated Acre, Financial District, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7028486",
+                "40.7035616",
+                "-74.0092792",
+                "-74.0081219"
+            ]
+        }
+    },
+    {
+        "address": "Elizabeth H. Berger Plaza, 2, Whitehall, Manhattan, New York County, City of New York, New York, 10006, United States",
+        "latitude": 40.70667865,
+        "longitude": -74.01399429057776,
+        "raw": {
+            "place_id": 329941132,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 538080002,
+            "lat": "40.70667865",
+            "lon": "-74.01399429057776",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010024956446331421,
+            "addresstype": "park",
+            "name": "Elizabeth H. Berger Plaza",
+            "display_name": "Elizabeth H. Berger Plaza, 2, Whitehall, Manhattan, New York County, City of New York, New York, 10006, United States",
+            "boundingbox": [
+                "40.7063447",
+                "40.7070081",
+                "-74.0144154",
+                "-74.0136261"
+            ]
+        }
+    },
+    {
+        "address": "LentSpace, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+        "latitude": 40.72278385,
+        "longitude": -74.00581589984846,
+        "raw": {
+            "place_id": 329504788,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 239982768,
+            "lat": "40.72278385",
+            "lon": "-74.00581589984846",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010038351598934526,
+            "addresstype": "park",
+            "name": "LentSpace",
+            "display_name": "LentSpace, Hudson Square, Manhattan, New York County, City of New York, New York, 10012, United States",
+            "boundingbox": [
+                "40.7224132",
+                "40.7230160",
+                "-74.0061366",
+                "-74.0053861"
+            ]
+        }
+    },
+    {
+        "address": "Community Island Pond, Financial District, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7025721,
+        "longitude": -74.00546201913227,
+        "raw": {
+            "place_id": 336426457,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 800212158,
+            "lat": "40.7025721",
+            "lon": "-74.00546201913227",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010167623995556764,
+            "addresstype": "park",
+            "name": "Community Island Pond",
+            "display_name": "Community Island Pond, Financial District, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7024496",
+                "40.7027005",
+                "-74.0056096",
+                "-74.0053180"
+            ]
+        }
+    },
+    {
+        "address": "Pumphouse Park, Battery Park City, Manhattan, New York County, City of New York, New York, 10281, United States",
+        "latitude": 40.7120735,
+        "longitude": -74.0161706,
+        "raw": {
+            "place_id": 329808201,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 357608159,
+            "lat": "40.7120735",
+            "lon": "-74.0161706",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010176475338742776,
+            "addresstype": "park",
+            "name": "Pumphouse Park",
+            "display_name": "Pumphouse Park, Battery Park City, Manhattan, New York County, City of New York, New York, 10281, United States",
+            "boundingbox": [
+                "40.7120235",
+                "40.7121235",
+                "-74.0162206",
+                "-74.0161206"
+            ]
+        }
+    },
+    {
+        "address": "Catherine Slip Malls, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+        "latitude": 40.7099945,
+        "longitude": -73.99622386644981,
+        "raw": {
+            "place_id": 332375673,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 17033398,
+            "lat": "40.7099945",
+            "lon": "-73.99622386644981",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010248762199678666,
+            "addresstype": "park",
+            "name": "Catherine Slip Malls",
+            "display_name": "Catherine Slip Malls, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States",
+            "boundingbox": [
+                "40.7092753",
+                "40.7102194",
+                "-73.9964344",
+                "-73.9959949"
+            ]
+        }
+    },
+    {
+        "address": "Rapkin-Gayle Plaza, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "latitude": 40.72040285,
+        "longitude": -73.99913743148994,
+        "raw": {
+            "place_id": 334976302,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 473565702,
+            "lat": "40.72040285",
+            "lon": "-73.99913743148994",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010301980107197833,
+            "addresstype": "park",
+            "name": "Rapkin-Gayle Plaza",
+            "display_name": "Rapkin-Gayle Plaza, Little Italy, Manhattan, New York County, City of New York, New York, 10013, United States",
+            "boundingbox": [
+                "40.7201773",
+                "40.7206229",
+                "-73.9994183",
+                "-73.9988613"
+            ]
+        }
+    },
+    {
+        "address": "Coenties Slip, Whitehall, Manhattan, New York County, City of New York, New York, United States",
+        "latitude": 40.7035101,
+        "longitude": -74.01057444873155,
+        "raw": {
+            "place_id": 333281087,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 109267278,
+            "lat": "40.7035101",
+            "lon": "-74.01057444873155",
+            "class": "leisure",
+            "type": "park",
+            "place_rank": 24,
+            "importance": -0.010316765374267073,
+            "addresstype": "park",
+            "name": "Coenties Slip",
+            "display_name": "Coenties Slip, Whitehall, Manhattan, New York County, City of New York, New York, United States",
+            "boundingbox": [
+                "40.7032963",
+                "40.7036644",
+                "-74.0107121",
+                "-74.0103480"
+            ]
+        }
+    }
+]
