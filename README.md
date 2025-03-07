@@ -32,3 +32,4 @@ python src/program.py
 ## resources
 
 - geopy documentation: https://geopy.readthedocs.io/en/stable/index.html?highlight=user_agent
+- nominatim special phrases: https://wiki.openstreetmap.org/wiki/Nominatim/Special_Phrases/EN
